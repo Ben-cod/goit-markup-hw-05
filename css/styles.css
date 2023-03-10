@@ -474,7 +474,7 @@ img {
 }
 .modal-close_btn {
 	position: absolute;
-	top: 24px;
+	top: 30px;
 	right: 24px;
 	padding: 0;
 	display: flex;
