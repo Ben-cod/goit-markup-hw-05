@@ -106,11 +106,13 @@ img {
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
-	color: var(--brend-color);
+	
+	
 }
 .site-nav{
 	margin-bottom: 24px 0;
 	position: relative;
+	color: #2E2F42;
 	
 }
 
@@ -614,7 +616,7 @@ opacity: 0;
 	margin-right: 24px;
 }
 .portfolio-button {
-	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+	
 	border: 1px solid #e7e9fc;
 	border-radius: 4px;
 	padding: 12px 24px;
@@ -633,4 +635,5 @@ opacity: 0;
 .portfolio-button:focus {
 	color: #ffffff;
 	background: var(--background-focus);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
